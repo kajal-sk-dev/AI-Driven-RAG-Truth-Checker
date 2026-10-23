@@ -1,5 +1,9 @@
 # AI-Driven-RAG-Truth-Checker
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-green)
+
 An AI-powered system to verify facts and detect hallucinations using Retrieval-Augmented Generation (RAG).
 
 ## 🚀 Features
